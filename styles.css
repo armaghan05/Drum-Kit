@@ -1,7 +1,7 @@
 body {
   text-align: center;
   background-color: black;
-  background-image: url(images/concert.jpg);
+  background-image: url(images/concertCANCELLED.jpg); /* cancelled the bg-image to test the site speed performance */
   background-repeat: no-repeat;
   background-position: center;
   background-size: 90% auto;
